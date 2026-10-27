@@ -1,0 +1,10 @@
+
+Package: com.networkmonitor.tweak
+Name: NetworkMonitor
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Network traffic monitor for iOS 16.4 with monthly and lifetime counters.
+Maintainer: NetworkMonitor
+Author: NetworkMonitor
+Section: Tweaks
+Depends: mobilesubstrate
